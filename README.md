@@ -14,7 +14,7 @@ navigate to a specified goal inside the opposite corridor.
 3. Can use landmarks’ ids to identify them, but not allowed to use their global positions
 
 ## How to run
-You must have [WeBots](https://www.cyberbotics.com/) installed to run.
-Go into /worlds and open 'project.wbt'. The simulation should automatically start.
-The goal position can be changed by editing line 225 of the 'mycontroller.py' file, which can be found in /controllers/my_controller.
-The details/explanation of the chosen path planning can be found in the 'CSCI5552_Project_Report.pdf' file.
+- Must have [WeBots](https://www.cyberbotics.com/) installed to run.
+- Go into /worlds and open 'project.wbt'. The simulation should automatically start.
+- The goal position can be changed by editing line 225 of the 'mycontroller.py' file, which can be found in /controllers/my_controller.
+- The details/explanation of the path planning can be found in the 'CSCI5552_Project_Report.pdf' file.
