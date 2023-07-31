@@ -4,6 +4,9 @@
 This is the final project for CSCI5552-Sensing & Estimating at the University of Minnesota Twin-Cities
 Authors: Bharath Sivaram & Isaac Kasahara
 
+https://github.com/bharathsivaram10/MazeRunner/assets/20588623/1bde97e3-9902-44f5-8346-f9e75e16419e
+
+
 ## Objective
 Given a virtual environment, the robot must go from a starting location inside one corridor and
 navigate to a specified goal inside the opposite corridor.
